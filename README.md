@@ -8,4 +8,6 @@ InagoFlyerのSELL &amp; BUY Volumeで売買するBOTです
 http://chromedriver.chromium.org/downloads
 でChromedriverをDLする
 
+pip install で pybitflyer,selenium を入れる
+
 start.batをダブルクリック
